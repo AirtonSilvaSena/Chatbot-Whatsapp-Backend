@@ -27,8 +27,7 @@ Toda a lógica é baseada em **fluxos de estados**, garantindo uma experiência 
 
 - **Node.js 18+** (com `fetch` nativo)  
 - **Express.js** – Servidor HTTP  
-- **PostgreSQL / MySQL** – Banco relacional  
-- **Sequelize ou Prisma** – ORM  
+- **MySQL** – Banco relacional  
 - **dotenv** – Variáveis de ambiente  
 
 ---
